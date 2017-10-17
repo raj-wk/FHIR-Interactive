@@ -1,0 +1,5 @@
+site_name: FHIR Interactive
+pages:
+- Home: 'index.md'
+- Spec: 'spec.md'
+- Community: 'community.md'

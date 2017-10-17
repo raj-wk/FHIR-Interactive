@@ -1,0 +1,14 @@
+{
+  "name": "fhir-interactive-docs",
+  "scripts": {},
+  "env": {},
+  "formation": {
+    "web": {
+      "size": "free"
+    }
+  },
+  "addons": [],
+  "buildpacks": [
+    { "url": "heroku/python" }
+  ]
+}
