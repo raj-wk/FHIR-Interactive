@@ -1,0 +1,54 @@
+{
+    "docs": [
+        {
+            "location": "/", 
+            "text": "Overview\n\n\nFHIR-Interactive\n\n\nFHIR\u00ae \u2013 Fast Healthcare Interoperability Resources (hl7.org/fhir) \u2013 is a next generation healthcare standards framework\n\n\nHow it works\n\n\nTry it!\n\n\nYou can try CDS Hooks in our test harness at ****", 
+            "title": "Home"
+        }, 
+        {
+            "location": "/#overview", 
+            "text": "", 
+            "title": "Overview"
+        }, 
+        {
+            "location": "/#fhir-interactive", 
+            "text": "FHIR\u00ae \u2013 Fast Healthcare Interoperability Resources (hl7.org/fhir) \u2013 is a next generation healthcare standards framework", 
+            "title": "FHIR-Interactive"
+        }, 
+        {
+            "location": "/#how-it-works", 
+            "text": "", 
+            "title": "How it works"
+        }, 
+        {
+            "location": "/#try-it", 
+            "text": "You can try CDS Hooks in our test harness at ****", 
+            "title": "Try it!"
+        }, 
+        {
+            "location": "/spec/", 
+            "text": "Spec", 
+            "title": "Spec"
+        }, 
+        {
+            "location": "/spec/#spec", 
+            "text": "", 
+            "title": "Spec"
+        }, 
+        {
+            "location": "/community/", 
+            "text": "Community\n\n\nGet Involved", 
+            "title": "Community"
+        }, 
+        {
+            "location": "/community/#community", 
+            "text": "", 
+            "title": "Community"
+        }, 
+        {
+            "location": "/community/#get-involved", 
+            "text": "", 
+            "title": "Get Involved"
+        }
+    ]
+}
